@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "## from here: http://datascienceplus.com/r-for-publication-by-page-piccinini-lesson-6-part-1-linear-mixed-effects-models-lmem/\n\n#create folders\n#lapply(c('data',figures','scripts','write_up'),function(x) dir.create(x))\n\n#grab data\n## 2x text files and 1x folder 'results'\n\n#commit to git\n\n#push repo to git\n\n\n",
+    "created" : 1467947628064.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1681162394",
+    "id" : "1E14D56D",
+    "lastKnownWriteTime" : 1467947611,
+    "last_content_update" : 1467951193393,
+    "path" : "C:/Users/s2977388/Google Drive/Analytics/Self Education/datascienceplus/Linear Mixed Effects Models/Lesson 6, Part 1.R",
+    "project_path" : "Lesson 6, Part 1.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
