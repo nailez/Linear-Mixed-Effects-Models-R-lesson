@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "if(!require(dplyr)){install.packages('dplyr')};require(dplyr)\nif(!require(purrr)){install.packages('purrr')};require(purrr)\n",
+    "created" : 1467953323139.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "75533997",
+    "id" : "736AEFB",
+    "lastKnownWriteTime" : 1467953404,
+    "last_content_update" : 1467953404708,
+    "path" : "C:/Users/s2977388/Google Drive/Analytics/Self Education/datascienceplus/Linear Mixed Effects Models/loadPackages.R",
+    "project_path" : "loadPackages.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
