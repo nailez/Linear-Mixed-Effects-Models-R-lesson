@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "data_results = list.files(path = 'data/results/', full.names = T) %>%\n    map(read.table, header = T, sep = '\\t') %>%\n    reduce(rbind)\n\nhead(data_results)\n",
+    "created" : 1467955132125.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "273175054",
+    "id" : "CC59CFFF",
+    "lastKnownWriteTime" : 1467956061,
+    "last_content_update" : 1467956061595,
+    "path" : "C:/Users/s2977388/Google Drive/Analytics/Self Education/datascienceplus/Linear Mixed Effects Models/readData.R",
+    "project_path" : "readData.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

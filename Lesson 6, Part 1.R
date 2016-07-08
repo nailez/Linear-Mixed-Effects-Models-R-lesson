@@ -15,3 +15,13 @@
 ##DONE
 
 source('loadPackages.R')
+source('readData.R')
+
+head(data_results)
+
+lmer(perc_votes_incumbent ~ 
+       incumbent_party * civil_war +
+       (1|state) +
+       (1|year))
+
+
